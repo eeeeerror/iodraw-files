@@ -57,8 +57,8 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-13" value="拒绝上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="-372" width="85" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="pqLpfXBq61uVAgK-UrQl-15" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="77" y="-317" width="129" height="80" as="geometry" />
+        <mxCell id="pqLpfXBq61uVAgK-UrQl-15" value="是否为新文件？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="-317" width="129" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
