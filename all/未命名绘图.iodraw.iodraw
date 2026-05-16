@@ -22,6 +22,11 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-4" value="后端接收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="-481" width="90" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="pqLpfXBq61uVAgK-UrQl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142.41107177734375" y="-370.3024139404297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-6" value="是否合法？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="164" y="-425" width="132" height="45" as="geometry" />
         </mxCell>
