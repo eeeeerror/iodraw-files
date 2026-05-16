@@ -80,6 +80,12 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="232" y="-232" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="369" y="-233" />
+              <mxPoint x="280" y="-233" />
+              <mxPoint x="280" y="-235" />
+              <mxPoint x="233" y="-235" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-24" value="反馈用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
