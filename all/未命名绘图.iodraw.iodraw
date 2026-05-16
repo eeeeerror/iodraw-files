@@ -30,6 +30,9 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-6" value="是否合法？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="164" y="-425" width="132" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="pqLpfXBq61uVAgK-UrQl-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="-372" width="120" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
