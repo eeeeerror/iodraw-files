@@ -210,7 +210,7 @@
           <mxGeometry x="979" y="594" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-99" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="996.5" y="1038" width="85" height="39" as="geometry" />
+          <mxGeometry x="982" y="1025" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-100" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;排除路径&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="979" y="704" width="85" height="39" as="geometry" />
