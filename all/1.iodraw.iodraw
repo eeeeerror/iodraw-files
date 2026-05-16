@@ -158,7 +158,10 @@
           <mxGeometry x="959" y="136" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-79" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;是否为新文件？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="601" y="-185" width="120" height="42" as="geometry" />
+          <mxGeometry x="941.5" y="49" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="pqLpfXBq61uVAgK-UrQl-80" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;jadx反编译java代码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="969" y="146" width="85" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
