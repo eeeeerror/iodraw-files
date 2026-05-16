@@ -77,17 +77,16 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-19" value="生成唯一id，上传分析管道" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="189" y="-292" width="85" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="pqLpfXBq61uVAgK-UrQl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="-237.61009216308594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-24" value="反馈用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="-292" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-27" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-228" width="85" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="pqLpfXBq61uVAgK-UrQl-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="388" y="-275" as="sourcePoint" />
-            <mxPoint x="438" y="-325" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
