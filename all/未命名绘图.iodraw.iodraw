@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pqLpfXBq61uVAgK-UrQl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229" y="-475" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-1" value="用户上传，后端接收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184" y="-530" width="90" height="39" as="geometry" />
         </mxCell>
@@ -47,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-6" value="是否合法？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="169.5" y="-421" width="119" height="45" as="geometry" />
+          <mxGeometry x="174" y="-438" width="119" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-9" target="pqLpfXBq61uVAgK-UrQl-15">
           <mxGeometry relative="1" as="geometry" />
