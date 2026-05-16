@@ -257,8 +257,14 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-105" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;是否匹配成功？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="961.5" y="759" width="120" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="pqLpfXBq61uVAgK-UrQl-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-106" target="pqLpfXBq61uVAgK-UrQl-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-106" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;前端界面展示结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="979" y="890" width="85" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="pqLpfXBq61uVAgK-UrQl-119" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1076" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
