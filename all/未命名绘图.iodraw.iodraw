@@ -28,13 +28,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-9" value="特征值去重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="-407" width="85" height="39" as="geometry" />
+          <mxGeometry x="186.5" y="-411" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-13" target="pqLpfXBq61uVAgK-UrQl-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-13" value="拒绝上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="-411" width="85" height="39" as="geometry" />
+          <mxGeometry x="341" y="-419" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-15" target="pqLpfXBq61uVAgK-UrQl-19">
           <mxGeometry relative="1" as="geometry" />
