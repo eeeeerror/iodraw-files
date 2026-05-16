@@ -91,11 +91,11 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-27" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="189" y="-216" width="85" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="pqLpfXBq61uVAgK-UrQl-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pqLpfXBq61uVAgK-UrQl-44" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="984" y="-491" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="-417" width="88" height="40" as="geometry" />
+          <mxGeometry x="984" y="-437" width="85" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
