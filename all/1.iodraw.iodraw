@@ -103,7 +103,7 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-47" value="展示基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="987" y="-204" width="85" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="pqLpfXBq61uVAgK-UrQl-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pqLpfXBq61uVAgK-UrQl-48" value="解析包名/版本/组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1139" y="-295" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-49" value="DEX字节码索引" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
