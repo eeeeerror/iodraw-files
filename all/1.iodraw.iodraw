@@ -125,12 +125,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1026" y="-279" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1129" y="-279" />
+              <mxPoint x="1138" y="-295" />
+              <mxPoint x="1138" y="-279" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-48" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;解析包名/版本/组件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="-334" width="85" height="39" as="geometry" />
+          <mxGeometry x="1093" y="-334" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-49" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;DEX字节码索引&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="875" y="-386" width="85" height="39" as="geometry" />
@@ -139,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-50" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;AXML转读XML&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="-386" width="85" height="39" as="geometry" />
+          <mxGeometry x="1093" y="-386" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-51" target="pqLpfXBq61uVAgK-UrQl-47">
           <mxGeometry relative="1" as="geometry" />
