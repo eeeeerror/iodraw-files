@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-13" value="拒绝上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="303" y="-415" width="85" height="39" as="geometry" />
+          <mxGeometry x="307" y="-359" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-15" target="pqLpfXBq61uVAgK-UrQl-19">
           <mxGeometry relative="1" as="geometry" />
@@ -58,13 +58,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-15" value="是否为新文件？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="167" y="-359" width="129" height="42" as="geometry" />
+          <mxGeometry x="167" y="-359" width="115" height="42" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-19" value="生成唯一id，上传分析管道" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="99" y="-249" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-24" value="反馈用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="303" y="-361" width="85" height="39" as="geometry" />
+          <mxGeometry x="303" y="-288" width="85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-27" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="-123" width="85" height="39" as="geometry" />
