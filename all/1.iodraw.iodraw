@@ -266,13 +266,13 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-119" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1022" y="876" width="122" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-1" value="解析后的AndroidManifest.xml" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;解析后的AndroidManifest.xml&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2" y="37" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-2" value="提取权限标签与获取权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;提取权限标签与获取权限&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="149" y="37" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-3" value="结合风险库进行等级区分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;结合风险库进行等级区分&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302" y="37" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-4" value="输出权限结果与风险等级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
