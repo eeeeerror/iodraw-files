@@ -266,7 +266,7 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-119" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1022" y="876" width="122" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-1" value="解析后的AndroidManifest.xml" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2" y="37" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
