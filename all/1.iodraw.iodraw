@@ -83,14 +83,23 @@
         <mxCell id="pqLpfXBq61uVAgK-UrQl-27" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="189" y="-216" width="85" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-45" target="pqLpfXBq61uVAgK-UrQl-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-45" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;接收，解压APK文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="693" y="-366" width="115" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-46" target="pqLpfXBq61uVAgK-UrQl-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;提取二进制清单/&lt;/font&gt;DEX字节码索引/AXML转读XML&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="828" y="-366" width="115" height="55" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;展示基本信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1098" y="-366" width="116" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="D-_HrnIs8xFPJ0w8Gn-Z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqLpfXBq61uVAgK-UrQl-51" target="pqLpfXBq61uVAgK-UrQl-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pqLpfXBq61uVAgK-UrQl-51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;扫描文件目录结构和&lt;/font&gt;解析包名/版本/组件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="959" y="-366" width="115" height="55" as="geometry" />
